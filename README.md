@@ -1,4 +1,4 @@
-[![Linkedin Badge](https://img.shields.io/badge/-sanketpatil-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ashutosh-gulame-927177191/)](https://www.linkedin.com/in/ashutosh-gulame-927177191/) 
+[![Linkedin Badge](https://img.shields.io/badge/-ashutoshgulame-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ashutosh-gulame-927177191/)](https://www.linkedin.com/in/ashutosh-gulame-927177191/) 
 
 
 ### Hey 👋🏽, I'm [Ashutosh!](https://www.linkedin.com/in/ashutosh-gulame-927177191/)
