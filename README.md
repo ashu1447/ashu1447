@@ -7,7 +7,7 @@
 
 Hi, I'm Ashutosh Gulame, a Data  scientist ,software Developer and web Developer 🚀 from Pune, India, currently, I'm a Member 🙍🏽‍♂️ [@digitalGuru](https://digitalbusinessguru.in/), Intern 👨🏽‍💻 [@cloudcouselage](https://www.cloudcounselage.com/). Beside's Computer Science, I love chess.
 
-####      ![](https://img.shields.io/badge/Web%20Designing-%3C%2F%3E-blueviolet) ![](https://img.shields.io/badge/Google%20Cloud-%3C%2F%3E-yellow) ![](https://img.shields.io/badge/Python-%7C-0%2C%2022%2C%20100) ![](https://img.shields.io/badge/C++-%7C-yellowgreen) ![](https://img.shields.io/badge/Augmented%20Reality-%7C-blue) ![](https://img.shields.io/badge/SEO-%7C-ff69b4)
+####      ![](https://img.shields.io/badge/Web%20Designing-%3C%2F%3E-blueviolet) ![](https://img.shields.io/badge/Data%20Science-%3C%2F%3E-yellow) ![](https://img.shields.io/badge/Python-%7C-0%2C%2022%2C%20100) ![](https://img.shields.io/badge/C++-%7C-yellowgreen) ![](https://img.shields.io/badge/Machine%20Learning-%7C-blue) ![](https://img.shields.io/badge/software developement-%7C-ff69b4)
   
 **Talking about Personal Stuffs:**
 
